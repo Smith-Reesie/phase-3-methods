@@ -9,6 +9,8 @@ describe '#greet_programmer' do
   
 end
 
+
+
 describe '#greet' do
 
   it 'outputs a string "Hello, Naureen!" when called with "Naureen"' do
@@ -20,6 +22,9 @@ describe '#greet' do
   end
 
 end
+
+
+
 
 describe '#greet_with_default' do
 
@@ -33,6 +38,8 @@ describe '#greet_with_default' do
 
 end
 
+
+
 describe '#add' do
 
   it 'returns the sum of two numbers' do
@@ -40,6 +47,8 @@ describe '#add' do
   end
 
 end
+
+
 
 describe '#halve' do
   
@@ -52,3 +61,4 @@ describe '#halve' do
   end
 
 end
+
